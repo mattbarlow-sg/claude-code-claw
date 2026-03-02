@@ -1,6 +1,6 @@
 # Tiamat
 
-A Claude Code setup for running an always-on AI assistant with skills, a heartbeat system, and agent orchestration.
+A Claude Code reference implementation for running an always-on AI assistant with skills, a heartbeat system, and agent orchestration.
 
 This repo is the working configuration for a Claude Code instance that acts as an administrative assistant and coding agent manager. It's shared as an example of what a fully configured Claude Code environment looks like.
 
