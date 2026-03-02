@@ -1,0 +1,6 @@
+logs/
+.envrc
+.mcp.json
+.claude/settings.local.json
+.claude/projects/
+.claude/worktrees/

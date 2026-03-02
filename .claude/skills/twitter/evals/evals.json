@@ -1,0 +1,23 @@
+{
+  "skill_name": "twitter",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "show me my bookmarks",
+      "expected_output": "Numbered list of bookmarks with concise summaries (who, what, thread context). Should use bird bookmarks --plain --author-chain --include-parent.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "check my mentions, anything interesting?",
+      "expected_output": "Summary of recent mentions with context. Should use bird mentions --plain. Should highlight actionable or notable mentions.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "what's on my timeline right now?",
+      "expected_output": "Digest-style summary of home timeline. Should use bird home --plain. Grouped or themed summary rather than raw dump.",
+      "files": []
+    }
+  ]
+}
